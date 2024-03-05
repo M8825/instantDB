@@ -6,6 +6,8 @@
     "start": "next start"
   },
   "dependencies": {
+    "@instantdb/admin": "^0.8.3",
+    "@instantdb/react": "^0.7.14",
     "next": "latest",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
